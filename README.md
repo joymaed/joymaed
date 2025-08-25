@@ -1,12 +1,12 @@
 Hi 👋 My name is Ayo Adeniyi
 ================================
 
-Frontend Developer
+Python Automation Engineering
 -----------------
 
 * 🌍  I'm based in lagos
 * ✉️  You can contact me at [keemeayo@gmail.com](mailto:keemeayo@gmail.com)
-* 🧠  learning react
+* 🧠  learning Devops
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio](https://portfolio-zeta-blue-24.vercel.app/)
 
