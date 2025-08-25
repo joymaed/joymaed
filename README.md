@@ -1,7 +1,7 @@
 Hi 👋 My name is Ayo Adeniyi
 ================================
 
-Python Automation Engineering
+Python Automation Engineer
 -----------------
 
 * 🌍  I'm based in lagos
