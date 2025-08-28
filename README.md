@@ -6,7 +6,7 @@ Python Engineer
 
 * 🌍  I'm based in lagos
 * ✉️  You can contact me at [keemeayo@gmail.com](mailto:keemeayo@gmail.com)
-* 🧠  learning Devops
+* 🧠  learning Devops (python-cloud automation)
 * 🤝  I'm open to collaborating on interesting projects
   
 
